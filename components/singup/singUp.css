@@ -1,0 +1,21 @@
+.customSignUp::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  .customSignUp::-webkit-scrollbar-track {
+    background: #a4c3b2;
+    border-radius: 10px;
+  }
+  
+  .customSignUp::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg, #a4c3b2, #96867b);
+    border-radius: 10px;
+  }
+  
+  .customSignUp::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(45deg, #a4c3b2, #413d3c);
+  }
+
+  /* #a4c3b2
+#eaf4f4
+ */
